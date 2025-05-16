@@ -5,7 +5,6 @@ import { ThemeProvider } from "@/components/theme-provider"
 export const metadata = {
   title: "YTS Movies App",
   description: "Browse movies from YTS with automatic updates",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
